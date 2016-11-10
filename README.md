@@ -10,7 +10,8 @@ from the `pom.xml` when imported as a maven project:
  - Eclipse Java EE IDE for Web Developers Version: Neon.1a Release (4.6.1)
 
 ## Additional Configuration
-*coming soon*
+Eclipse requires a few small project and workspace configuration changes.
+*details coming soon*
 
 ## Local Deployment
 *coming coon*
