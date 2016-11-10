@@ -11,7 +11,17 @@ from the `pom.xml` when imported as a maven project:
 
 ## Additional Configuration
 Eclipse requires a few small project and workspace configuration changes.  
-*details coming soon*
+*Details coming soon.*
 
 ## Local Deployment
-*coming soon*
+### Manual
+ - `mvn clean package`
+ - place generated `app.war` file into websphere's `/config/dropins` directory.
+   
+*More Coming soon.*
+
+## Usage
+Assumes default websphere port.
+### curl/browser/postman
+`http://localhost:9080/resource` -> `'hello I am resource'`
+

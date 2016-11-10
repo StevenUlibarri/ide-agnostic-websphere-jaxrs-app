@@ -7,6 +7,6 @@ public class Resource {
 
   @GET
   public String getResource() {
-    return "resource";
+    return "hello I am resource";
   }
 }
